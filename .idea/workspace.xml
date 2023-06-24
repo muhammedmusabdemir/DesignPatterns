@@ -5,43 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1539b918-47df-4b53-bdf5-520abdcbbf7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Pentagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/AbstractFactoryDP/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP/Pentagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/FactoryDP_runner/FactoryRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/PrototypeDP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/PrototypeDP/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/SingletonDP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationalDP/SingletonDP/SingletonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/Iphone11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/Iphone11Pro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/Iphone11ProMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/PhoneDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/DecoratorDP/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/FacadeDP/AESEnc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/FacadeDP/EncryptType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/FacadeDP/EncryptorFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/FacadeDP/FacadeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/FacadeDP/MD5Enc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StructuralDP/FacadeDP/SHAEnc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/ChainOfResponsibilityDP/Approver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/ChainOfResponsibilityDP/GenelMudur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/ChainOfResponsibilityDP/Memur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/ChainOfResponsibilityDP/Mudur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/ChainOfResponsibilityDP/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/MediatorDP/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/MediatorDP/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/MediatorDP/MessageDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/MediatorDP/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BehaivoralDP/MediatorDP/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/CompositeDP/Arge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/CompositeDP/CompositeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/CompositeDP/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/CompositeDP/Finance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/CompositeDP/HeadDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/CompositeDP/Sales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/ProxyDP/ImageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/ProxyDP/ProxyImageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/ProxyDP/ProxyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StructuralDP/ProxyDP/RealImageClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,27 +55,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Muhammed Musab Demir/IdeaProjects/DesignPatterns/src/CreationalDP/AbstractFactoryDP",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Muhammed Musab Demir/IdeaProjects/DesignPatterns/src/CreationalDP/AbstractFactoryDP&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Muhammed Musab Demir\IdeaProjects\DesignPatterns\src\CreationalDP\AbstractFactoryDP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="CreationalDP.AbstractFactoryDP.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDP.AbstractFactoryDP.Runner" />
+  <component name="RunManager" selected="Application.BehaivoralDP.ChainOfResponsibilityDP.Runner">
+    <configuration name="BehaivoralDP.ChainOfResponsibilityDP.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehaivoralDP.ChainOfResponsibilityDP.Runner" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalDP.AbstractFactoryDP.*" />
+          <option name="PATTERN" value="BehaivoralDP.ChainOfResponsibilityDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalDP.PrototypeDP.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDP.PrototypeDP.Runner" />
+    <configuration name="BehaivoralDP.MediatorDP.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BehaivoralDP.MediatorDP.Runner" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalDP.PrototypeDP.*" />
+          <option name="PATTERN" value="BehaivoralDP.MediatorDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreationalDP.SingletonDP.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreationalDP.SingletonDP.Runner" />
+    <configuration name="CompositeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralDP.CompositeDP.CompositeRunner" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreationalDP.SingletonDP.*" />
+          <option name="PATTERN" value="StructuralDP.CompositeDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FacadeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StructuralDP.FacadeDP.FacadeRunner" />
+    <configuration name="ProxyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructuralDP.ProxyDP.ProxyRunner" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StructuralDP.FacadeDP.*" />
+          <option name="PATTERN" value="StructuralDP.ProxyDP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BehaivoralDP.ChainOfResponsibilityDP.Runner" />
+        <item itemvalue="Application.BehaivoralDP.MediatorDP.Runner" />
+        <item itemvalue="Application.CompositeRunner" />
+        <item itemvalue="Application.ProxyRunner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.FacadeRunner" />
-        <item itemvalue="Application.CreationalDP.PrototypeDP.Runner" />
-        <item itemvalue="Application.CreationalDP.AbstractFactoryDP.Runner" />
-        <item itemvalue="Application.CreationalDP.SingletonDP.Runner" />
       </list>
     </recent_temporary>
   </component>
